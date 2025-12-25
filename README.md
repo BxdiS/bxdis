@@ -25,5 +25,5 @@
 ###
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BxdiS&theme=kimbie_dark&no-frame=true&no-bg=true">
+  <img src="https://github-profile-trophy-tawny.vercel.app/?username=bxdis&theme=kimbie_dark&no-frame=true&no-bg=true">
 </p>
