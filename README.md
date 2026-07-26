@@ -1,6 +1,29 @@
 <h1 align="center"> BxdiS / Creator & Script Wizard </h1>
 
+<p align="center">
+  turning ideas into videos and code into handy scripts.
+</p>
+
 ###
+
+<div align="center">
+  <a href="https://youtube.com/@whoifnotvan" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-@whoifnotvan-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube @whoifnotvan" />
+  </a>
+  <a href="https://youtube.com/@bxdis" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-@bxdis-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube @bxdis" />
+  </a>
+  <a href="https://t.me/bxdis" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="https://discord.com/users/415051292717613058" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+</div>
+
+###
+
+<h3 align="center">best tools ever</h3>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ae" height="40" alt="ae logo"  />
@@ -24,6 +47,12 @@
 
 ###
 
+<h3 align="center">stats</h3>
+
 <p align="center">
-  <img src="https://github-profile-trophy-tawny.vercel.app/?username=bxdis&theme=kimbie_dark&no-frame=true&no-bg=true">
+  <img src="https://streak-stats.demolab.com?user=bxdis&theme=kimbie_dark&hide_border=true" alt="GitHub streak" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bxdis&layout=compact&theme=kimbie_dark&hide_border=true" alt="Top languages" height="165" />
 </p>
