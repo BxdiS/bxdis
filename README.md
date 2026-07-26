@@ -50,9 +50,9 @@
 <h3 align="center">stats</h3>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=bxdis&theme=kimbie_dark&hide_border=true" alt="GitHub streak" height="165" />
+  <img src="https://streak-stats.demolab.com?user=bxdis&theme=transparent&hide_border=true" alt="GitHub streak" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bxdis&layout=compact&theme=kimbie_dark&hide_border=true" alt="Top languages" height="165" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bxdis&layout=compact&theme=transparent&hide_border=true" alt="Top languages" height="165" />
 </p>
