@@ -23,8 +23,6 @@
 
 ###
 
-<h3 align="center">best tools ever</h3>
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ae" height="40" alt="ae logo"  />
   <img width="12" />
@@ -46,8 +44,6 @@
 </div>
 
 ###
-
-<h3 align="center">stats</h3>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=bxdis&theme=transparent&hide_border=true" alt="GitHub streak" height="165" />
