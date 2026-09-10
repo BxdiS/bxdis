@@ -1,4 +1,4 @@
-<h1 align="center"> BxdiS / Creator & Script Wizard </h1>
+<h1 align="center"> BxdiS / Creator & Scripter </h1>
 
 <p align="center">
   turning ideas into videos and code into handy scripts.
